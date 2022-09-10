@@ -2,7 +2,7 @@
 
 ### I'm Griffin
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcd253&show_icons=true&theme=onedark)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gcd253&theme=onedark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcd253&hide=procfile,shell&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
