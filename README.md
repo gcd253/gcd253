@@ -2,7 +2,9 @@
 
 ### I'm Griffin
 
-(https://github-readme-stats.vercel.app/api?username=gcd253)](https://github.com/gcd253/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gcd253&show_icons=true&theme=onedark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcd253&hide=procfile,shell&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gcd253/gcd253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
