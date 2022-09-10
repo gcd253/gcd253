@@ -2,6 +2,8 @@
 
 ### I'm Griffin
 
+(https://github-readme-stats.vercel.app/api?username=gcd253)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **gcd253/gcd253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
