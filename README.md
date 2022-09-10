@@ -2,8 +2,9 @@
 
 ### I'm Griffin
 
-
-
+<a href="https://www.linkedin.com/in/griffin-dooley/" target="_blank">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="30"/>&nbsp;
+</a>
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
