@@ -1,6 +1,11 @@
 ## Hi there 👋
 
-### I'm Griffin
+### I'm Griffin, 
+a Software Engineer based in New York City! In August of 2022, I graduated from Flatiron School and since then I have been hard at work, learning new technologies and honing my programming language skills.
+
+When I'm not coding, I'm probably climbing. The two are a lot more similar than you might initially expect, so they both suit me as a problem solver and creative thinker.
+
+If you'd like to learn a bit more about me professionally, visit my LinkedIn with the icon below! 
 
 <a href="https://www.linkedin.com/in/griffin-dooley/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" alt="LinkedIn" width="30" height="30"/>&nbsp;
