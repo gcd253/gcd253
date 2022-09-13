@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### I'm Griffin, 
+### I'm Griffin, (he/him)
 a Software Engineer based in New York City! In August of 2022, I graduated from Flatiron School and since then I have been hard at work, learning new technologies and honing my programming language skills.
 
 When I'm not coding, I'm probably climbing. The two are a lot more similar than you might initially expect, so they both suit me as a problem solver and creative thinker.
