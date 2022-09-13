@@ -14,7 +14,7 @@ If you'd like to learn a bit more about me professionally, visit my LinkedIn wit
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
-(hint: if you aren't familiar with any of the icons below, hover over them to see their names!)
+> If you aren't familiar with any of the icons below, hover over them to see their names!
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
