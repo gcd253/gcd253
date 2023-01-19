@@ -30,13 +30,6 @@ If you'd like to learn a bit more about me professionally, visit my LinkedIn wit
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-### :fire: My Stats :
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gcd253&hide=procfile,shell&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <!--
 **gcd253/gcd253** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
